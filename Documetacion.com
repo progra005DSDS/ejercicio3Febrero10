@@ -13,7 +13,7 @@ Ingresa el tercer número
 -Salida
 El número mayor es: " + mayor +" El número medio es: " + medio+ "El número menor es: " + menor
 ## Diseño de la solucion
-![ ] (
+![ ] (https://github.com/progra005DSDS/ejercicio3Febrero10/blob/master/Ejercicio3.png)
 ## Desarollo de la 
 if(num1 > num2 && num1> num3){
             mayor= num1;
